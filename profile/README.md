@@ -123,13 +123,9 @@
 ## 💚 주요 기능
 
 ### ⭐ 소셜 로그인
-    
-    <aside>
     👉 회원가입 시, 발생되는 불편함을 해소하기 위해 소셜 로그인 기능을 이용할 수 있습니다.
-    
-    </aside>
-    
-    ![20240816_111720-ezgif.com-speed.gif](https://prod-files-secure.s3.us-west-2.amazonaws.com/83c75a39-3aba-4ba4-a792-7aefe4b07895/02b1e6cf-d055-4821-bc8b-4768d369e165/20240816_111720-ezgif.com-speed.gif)
+    <img src="https://file.notion.so/f/f/83c75a39-3aba-4ba4-a792-7aefe4b07895/02b1e6cf-d055-4821-bc8b-4768d369e165/20240816_111720-ezgif.com-speed.gif?table=block&id=3c910711-e640-461b-ada9-7515901f53a6&spaceId=83c75a39-3aba-4ba4-a792-7aefe4b07895&expirationTimestamp=1723881600000&signature=H-FgigVqjiWElBup5SHTwKh0SRafbSPQFaJnfrSki3o&downloadName=20240816_111720-ezgif.com-speed.gifg" width="800px;" alt=""/>
+
     
 ### ⭐ 날씨 정보
     
