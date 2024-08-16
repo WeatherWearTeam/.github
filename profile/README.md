@@ -125,8 +125,8 @@
   <summary>⭐ 소셜 로그인</summary>
 	<div>
 	👉 회원가입 시, 발생되는 불편함을 해소하기 위해 소셜 로그인 기능을 이용할 수 있습니다.
-	![20240816_111720-ezgif com-speed](https://github.com/user-attachments/assets/89291d65-25a5-44a7-8a7f-6a9733a9148d)
 	</div>
+![20240816_111720-ezgif com-speed](https://github.com/user-attachments/assets/89291d65-25a5-44a7-8a7f-6a9733a9148d)
 </details>
     
 ### ⭐ 날씨 정보
