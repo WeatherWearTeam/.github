@@ -113,6 +113,7 @@
 오늘의 날씨에 딱 맞는 나만의 특별한 OOTD로 스타일리시하게 하루를 시작해보세요!
 
 ## ⛈️ 웨더웨어(WeatherWear) 사이트
+[웨더웨어](https://weatherwearclothing.com/)
 <a href="https://weatherwearclothing.com/" target="_blank">
 
 
