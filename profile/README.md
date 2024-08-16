@@ -121,12 +121,11 @@
 <img src="https://file.notion.so/f/f/83c75a39-3aba-4ba4-a792-7aefe4b07895/b5b1d229-6c50-42bf-86cb-b8383c3ab6c0/image.png?table=block&id=ba04be01-f5a2-46f9-ad38-7f3c09b7f4d4&spaceId=83c75a39-3aba-4ba4-a792-7aefe4b07895&expirationTimestamp=1723874400000&signature=Upc2ig3DPDg5VIeCstwjaNZ2MynIhh6n0BZqRX4fJ8o&downloadName=image.png" width="800px;" alt=""/>
 
 ## 💚 주요 기능
-
-### ⭐ 소셜 로그인
-    👉 회원가입 시, 발생되는 불편함을 해소하기 위해 소셜 로그인 기능을 이용할 수 있습니다.
+<details>
+  <summary> ### ⭐ 소셜 로그인</summary>
+👉 회원가입 시, 발생되는 불편함을 해소하기 위해 소셜 로그인 기능을 이용할 수 있습니다.
 ![20240816_111720-ezgif com-speed](https://github.com/user-attachments/assets/89291d65-25a5-44a7-8a7f-6a9733a9148d)
-
-
+</details>
     
 ### ⭐ 날씨 정보
     👉 사용자 위치 기반으로 날씨 정보를 얻을 수 있습니다. 카카오 맵을 통해 원하는 지역을 선택하거나 검색하면 그 지역의 날씨 정보도 얻을 수 있습니다. 
