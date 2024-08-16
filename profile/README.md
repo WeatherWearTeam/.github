@@ -116,7 +116,7 @@
 <a href="https://weatherwearclothing.com/" target="_blank"> <img src="https://file.notion.so/f/f/83c75a39-3aba-4ba4-a792-7aefe4b07895/f004baeb-f3cb-456a-b7e7-b17736573ab0/wwlogo.jpg?table=block&id=725a4242-7f98-40bc-8758-c8dc7873a92b&spaceId=83c75a39-3aba-4ba4-a792-7aefe4b07895&expirationTimestamp=1723881600000&signature=fzUQ9DqK6YAzz7TLl0GWz_HcRFDQkFQKDNBpOE1Ukl4&downloadName=wwlogo.jpg" align="center" width="200px;" alt=""/> </a>
 
 ## 💚 규칙
-📢 1. 그라운드 룰
+📢 그라운드 룰
 	<ul>
 	  <li><strong>아침:</strong> 오전 10시 전체 회의</li>
 	  <li><strong>스크럼:</strong> 월, 목요일은 11시 15분에 스크럼 진행</li>
@@ -125,8 +125,7 @@
 	  <li><strong>저녁시간:</strong> 17:00 ~ 18:30</li>
 	  <li><strong>스트레칭:</strong> 한 시간마다 스트레칭 👍</li>
 	</ul>
- 
- 📢 2. 스크럼 규칙
+
 
 ## 💚 기술적 의사결정 (FE | BE)
 <details>
@@ -347,12 +346,12 @@
     <aside>
     💡 `문제점` : 데이터 전송 시 Long 타입으로 입력 받으니 문제가 발생함을 확인
     
-<img width="1421" alt="스크린샷 2024-08-14 오전 10 44 04" src="[https://github.com/user-attachments/assets/3716661e-d560-4a82-88cd-2cd0f18c1756](https://prod-files-secure.s3.us-west-2.amazonaws.com/83c75a39-3aba-4ba4-a792-7aefe4b07895/b921b122-388d-422e-8fb5-17891554b63a/image.png)">
-
-<img width="1421" alt="스크린샷 2024-08-14 오전 10 44 04" src="https://prod-files-secure.s3.us-west-2.amazonaws.com/83c75a39-3aba-4ba4-a792-7aefe4b07895/e2f975a1-bbd9-4282-92b4-915b5f0cc735/image.png">
-
     `해결방법` : String으로 값을 전달받아 형변환을 통해 문제를 처리함
     </aside>
+<img width="1421" alt="스크린샷 2024-08-14 오전 10 44 04" src="https://file.notion.so/f/f/83c75a39-3aba-4ba4-a792-7aefe4b07895/b921b122-388d-422e-8fb5-17891554b63a/image.png?table=block&id=d0fafc7e-bce6-4ee2-9964-f247aab89111&spaceId=83c75a39-3aba-4ba4-a792-7aefe4b07895&expirationTimestamp=1723881600000&signature=cU-4N8e_0yhfk1uOwhrbyEz0joV9vNJaAk-IYTCHu8Y&downloadName=image.png">
+
+<img width="1421" alt="스크린샷 2024-08-14 오전 10 44 04" src="https://file.notion.so/f/f/83c75a39-3aba-4ba4-a792-7aefe4b07895/e2f975a1-bbd9-4282-92b4-915b5f0cc735/image.png?table=block&id=a68dc6e7-8151-4b2e-a6d6-e7f1d5d918e2&spaceId=83c75a39-3aba-4ba4-a792-7aefe4b07895&expirationTimestamp=1723881600000&signature=ot0HVKdo7NledCGCQ_6iTEc4D6yPel_YiMCIqutd_us&downloadName=image.png">
+
     
 - **추천 아이템 소요시간 문제**
     
