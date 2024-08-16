@@ -147,12 +147,16 @@
     
 ### ⭐ 게시판 & 댓글
     👉 사용자는 OOTD(outfit of the day, 오늘의 옷 차림)를 등록하여 다른 사용자와 공유할 수 있습니다. 게시물에 대한 의견을 자유롭게 댓글로 작성할 수 있습니다.
-    
+![Aug-14-2024 11-40-03](https://github.com/user-attachments/assets/e4f838bc-d6b6-4755-a1ad-f9a9abff0df8)
+![comments](https://github.com/user-attachments/assets/f88f1c00-8783-4d79-9541-a1733533dee0)    
+
 ### ⭐ 검색 기능
     👉 사용자가 원하는 정보를 쉽게 찾고 검색 경험을 더욱 만족스럽게 느낄 수 있도록
     각 페이지에 맞는 키워드로 검색, 날씨 아이콘으로 검색, 옷 종류-컬러로 검색하는 기능을 제공합니다.
-![Aug-14-2024 11-40-03](https://github.com/user-attachments/assets/e4f838bc-d6b6-4755-a1ad-f9a9abff0df8)
-![comments](https://github.com/user-attachments/assets/f88f1c00-8783-4d79-9541-a1733533dee0)
+![myootd](https://github.com/user-attachments/assets/3716661e-d560-4a82-88cd-2cd0f18c1756)
+![wish](https://github.com/user-attachments/assets/11f219e2-9eca-49f9-aeed-72a82e001104)
+![trend color](https://github.com/user-attachments/assets/139cbd36-b5b5-484b-b40d-4b8ff52cb373)
+
 
 
 ## 💚 발표 자료
