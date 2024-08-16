@@ -115,10 +115,13 @@
 ## ⛈️ 웨더웨어(WeatherWear) 사이트
 <a href="https://weatherwearclothing.com/" target="_blank"> <img src="https://file.notion.so/f/f/83c75a39-3aba-4ba4-a792-7aefe4b07895/f004baeb-f3cb-456a-b7e7-b17736573ab0/wwlogo.jpg?table=block&id=725a4242-7f98-40bc-8758-c8dc7873a92b&spaceId=83c75a39-3aba-4ba4-a792-7aefe4b07895&expirationTimestamp=1723881600000&signature=fzUQ9DqK6YAzz7TLl0GWz_HcRFDQkFQKDNBpOE1Ukl4&downloadName=wwlogo.jpg" align="center" width="200px;" alt=""/> </a>
 
+### 💚 스크럼 규칙
 
+## 💚 기술적 의사결정 (FE | BE)
 
 ## 💚 기술 아키텍처
 <img src="https://file.notion.so/f/f/83c75a39-3aba-4ba4-a792-7aefe4b07895/b5b1d229-6c50-42bf-86cb-b8383c3ab6c0/image.png?table=block&id=ba04be01-f5a2-46f9-ad38-7f3c09b7f4d4&spaceId=83c75a39-3aba-4ba4-a792-7aefe4b07895&expirationTimestamp=1723874400000&signature=Upc2ig3DPDg5VIeCstwjaNZ2MynIhh6n0BZqRX4fJ8o&downloadName=image.png" width="800px;" alt=""/>
+
 
 ## 💚 주요 기능
 <details>
@@ -180,6 +183,8 @@
 	<img width="1421" alt="스크린샷 2024-08-14 오전 10 44 04" src="https://github.com/user-attachments/assets/11f219e2-9eca-49f9-aeed-72a82e001104">
 	<img width="1421" alt="스크린샷 2024-08-14 오전 10 44 04" src="https://github.com/user-attachments/assets/139cbd36-b5b5-484b-b40d-4b8ff52cb373">
 </details>
+
+## 💚 Trouble Shooting
 
 ## 💚 발표 자료
 📕📗 [WeatherWear.pdf](https://github.com/user-attachments/files/16633816/WeatherWear.4.pdf)
