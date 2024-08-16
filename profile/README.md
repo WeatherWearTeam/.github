@@ -38,7 +38,7 @@
 	      <a href="https://github.com/summereuna" target="_blank">
 	      <img src="" width="200px;" alt=""/>
 	      <br />
-	      <sub>정은화 FE<b>(Deputy team leader)</b></sub>
+	      <sub><b>정은화 FE(Deputy team leader)</b></sub>
 	      </a>
 	      <br />
        	      </td>
