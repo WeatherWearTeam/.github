@@ -115,14 +115,54 @@
 ## ⛈️ 웨더웨어(WeatherWear) 사이트
 <a href="https://weatherwearclothing.com/" target="_blank"> <img src="https://file.notion.so/f/f/83c75a39-3aba-4ba4-a792-7aefe4b07895/f004baeb-f3cb-456a-b7e7-b17736573ab0/wwlogo.jpg?table=block&id=725a4242-7f98-40bc-8758-c8dc7873a92b&spaceId=83c75a39-3aba-4ba4-a792-7aefe4b07895&expirationTimestamp=1723881600000&signature=fzUQ9DqK6YAzz7TLl0GWz_HcRFDQkFQKDNBpOE1Ukl4&downloadName=wwlogo.jpg" align="center" width="200px;" alt=""/> </a>
 
-### 💚 스크럼 규칙
+## 💚 스크럼 규칙
 
 ## 💚 기술적 의사결정 (FE | BE)
 <details>
   <summary>기술적 의사결정(FE)</summary>
-	<ul>
-		<li></li>
-	</ul>
+<ul>
+  <li><strong>Vite</strong>
+    <ul>
+      <li>개발 효율성과 속도를 위해 Vite를 선택했습니다. 이는 CRA보다 빌드 속도와 서버 시작 시간이 훨씬 빠릅니다.</li>
+    </ul>
+  </li>
+  <li><strong>TypeScript</strong>
+    <ul>
+      <li>협업의 필요성으로 인해 동적 타입을 제공하는 JavaScript 대신 정적 타입을 제공하는 TypeScript를 사용했습니다. TypeScript는 코드 오류를 빠르게 잡고 데이터 구조를 명확하게 정의할 수 있어, 가독성과 유지보수성을 높일 수 있습니다.</li>
+    </ul>
+  </li>
+  <li><strong>TanStack Query</strong>
+    <ul>
+      <li>TanStack Query는 데이터 패칭, 캐싱, 서버 상태 관리를 효율적으로 관리할 수 있어 선택했습니다. 비동기 데이터 관리를 효과적으로 해결할 수 있었기 때문에, 전역 상태 관리를 위한 Redux나 Zustand 같은 라이브러리를 추가할 필요가 없었습니다. 또한, 전역적으로 관리해야 하는 모달 등은 추가 라이브러리 없이 React Portal과 커스텀 훅을 사용하여 처리했습니다.</li>
+    </ul>
+  </li>
+  <li><strong>Axios</strong>
+    <ul>
+      <li>Fetch API보다 다양한 기능을 제공하고, 복잡한 HTTP 요청을 보다 쉽게 처리할 수 있어 Axios를 사용했습니다.</li>
+    </ul>
+  </li>
+  <li><strong>Styled-components</strong>
+    <ul>
+      <li>스타일링은 유지보수성과 가독성 문제로 Tailwind CSS 대신 Styled-components를 선택했습니다. 이 라이브러리를 통해 컴포넌트 기반으로 CSS를 작성할 수 있으며, 고유한 클래스 이름 생성으로 CSS 충돌을 방지하고 재사용성을 높일 수 있습니다. 또한, theme 설정이 가능하다는 장점이 있습니다.</li>
+    </ul>
+  </li>
+  <li><strong>React Router</strong>
+    <ul>
+      <li>React 환경에서 라우팅과 페이지 설계를 간편하게 처리할 수 있는 React Router를 사용했습니다. 이 라이브러리는 SPA(Single Page Application)에서 페이지 간 네비게이션을 쉽게 관리할 수 있으며, Layout, Outlet 등의 기능을 제공합니다.</li>
+    </ul>
+  </li>
+  <li><strong>Vercel</strong>
+    <ul>
+      <li>배포는 빠르고 간편하며, 자동화된 CI/CD를 제공하는 Vercel을 사용하여 개발과 운영 효율성을 높였습니다.</li>
+    </ul>
+  </li>
+  <li><strong>Yarn</strong>
+    <ul>
+      <li>패키지 관리는 npm 대신 속도와 안정성 측면에서 뛰어난 Yarn을 선택했습니다.</li>
+    </ul>
+  </li>
+</ul>
+
 
 </details>
 <details>
