@@ -116,6 +116,14 @@
 <a href="https://weatherwearclothing.com/" target="_blank"> <img src="https://file.notion.so/f/f/83c75a39-3aba-4ba4-a792-7aefe4b07895/f004baeb-f3cb-456a-b7e7-b17736573ab0/wwlogo.jpg?table=block&id=725a4242-7f98-40bc-8758-c8dc7873a92b&spaceId=83c75a39-3aba-4ba4-a792-7aefe4b07895&expirationTimestamp=1723881600000&signature=fzUQ9DqK6YAzz7TLl0GWz_HcRFDQkFQKDNBpOE1Ukl4&downloadName=wwlogo.jpg" align="center" width="200px;" alt=""/> </a>
 
 ## 💚 스크럼 규칙
+<ul>
+  <li><strong>아침:</strong> 오전 10시 전체 회의</li>
+  <li><strong>스크럼:</strong> 월, 목요일은 11시 15분에 스크럼 진행</li>
+  <li><strong>저녁 회의:</strong> 매일 20시에 오늘 어디까지 진행했는지 간단히 회의</li>
+  <li><strong>점심시간:</strong> 12:00 ~ 13:00</li>
+  <li><strong>저녁시간:</strong> 17:00 ~ 18:30</li>
+  <li><strong>스트레칭:</strong> 한 시간마다 스트레칭 👍</li>
+</ul>
 
 ## 💚 기술적 의사결정 (FE | BE)
 <details>
