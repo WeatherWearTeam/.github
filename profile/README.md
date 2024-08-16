@@ -124,7 +124,8 @@
 
 ### ⭐ 소셜 로그인
     👉 회원가입 시, 발생되는 불편함을 해소하기 위해 소셜 로그인 기능을 이용할 수 있습니다.
-    <img src="https://file.notion.so/f/f/83c75a39-3aba-4ba4-a792-7aefe4b07895/02b1e6cf-d055-4821-bc8b-4768d369e165/20240816_111720-ezgif.com-speed.gif?table=block&id=3c910711-e640-461b-ada9-7515901f53a6&spaceId=83c75a39-3aba-4ba4-a792-7aefe4b07895&expirationTimestamp=1723881600000&signature=H-FgigVqjiWElBup5SHTwKh0SRafbSPQFaJnfrSki3o&downloadName=20240816_111720-ezgif.com-speed.gifg" width="800px;" alt=""/>
+![20240816_111720-ezgif com-speed](https://github.com/user-attachments/assets/89291d65-25a5-44a7-8a7f-6a9733a9148d)
+
 
     
 ### ⭐ 날씨 정보
