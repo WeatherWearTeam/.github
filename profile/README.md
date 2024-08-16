@@ -126,8 +126,9 @@
 	<div>
 	👉 회원가입 시, 발생되는 불편함을 해소하기 위해 소셜 로그인 기능을 이용할 수 있습니다.
 	</div>
-![20240816_111720-ezgif com-speed](https://github.com/user-attachments/assets/89291d65-25a5-44a7-8a7f-6a9733a9148d)
+	<img src="https://github.com/user-attachments/assets/89291d65-25a5-44a7-8a7f-6a9733a9148d" alt="소셜 로그인 GIF">
 </details>
+
     
 ### ⭐ 날씨 정보
     👉 사용자 위치 기반으로 날씨 정보를 얻을 수 있습니다. 카카오 맵을 통해 원하는 지역을 선택하거나 검색하면 그 지역의 날씨 정보도 얻을 수 있습니다. 
