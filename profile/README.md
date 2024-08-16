@@ -155,8 +155,4 @@
 ![comments](https://github.com/user-attachments/assets/f88f1c00-8783-4d79-9541-a1733533dee0)
 
 
-    
-## 💚 기능별 소개
-
-
 ## 💚 발표 자료
