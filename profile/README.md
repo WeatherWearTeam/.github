@@ -117,12 +117,21 @@
 
 ### 💚 스크럼 규칙
 
+### 💚 기술적 의사결정 (FE | BE)
+
 <details>
-  <summary>💚 기술적 의사결정 (FE | BE)</summary>
+  <summary>
 	<ul>
-		<li>기술적 의사결정(FE)</li>
 		<li>기술적 의사결정(BE)</li>
 	</ul>
+  </summary>
+</details>
+<details>
+  <summary>
+	<ul>
+		<li>기술적 의사결정(BE)</li>
+	</ul>
+  </summary>
 </details>
 
 ## 💚 기술 아키텍처
