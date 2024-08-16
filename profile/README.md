@@ -120,18 +120,17 @@
 ### 💚 기술적 의사결정 (FE | BE)
 
 <details>
-  <summary>
+  <summary>기술적 의사결정(FE)</summary>
 	<ul>
-		<li>기술적 의사결정(BE)</li>
+		<li></li>
 	</ul>
-  </summary>
+
 </details>
 <details>
-  <summary>
+  <summary>기술적 의사결정(BE)  </summary>
 	<ul>
-		<li>기술적 의사결정(BE)</li>
+		<li></li>
 	</ul>
-  </summary>
 </details>
 
 ## 💚 기술 아키텍처
