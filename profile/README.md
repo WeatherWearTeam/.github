@@ -128,16 +128,12 @@
 
     
 ### ⭐ 날씨 정보
-    
-    <aside>
     👉 사용자 위치 기반으로 날씨 정보를 얻을 수 있습니다. 카카오 맵을 통해 원하는 지역을 선택하거나 검색하면 그 지역의 날씨 정보도 얻을 수 있습니다. 
     날씨 정보를 바탕으로 오늘의 날씨를 브리핑하고, 기온에 맞는 옷을 추천해주는 기능이 있습니다.
+<img src="https://file.notion.so/f/f/83c75a39-3aba-4ba4-a792-7aefe4b07895/8d75ca45-6c1b-438b-aeb1-d7ee14b6a3a0/1.jpg?table=block&id=bf1f7ee6-9206-4982-b7bf-60211dc05a98&spaceId=83c75a39-3aba-4ba4-a792-7aefe4b07895&expirationTimestamp=1723881600000&signature=Ij18XWOmws8w_h_mYDgxVgdk-mViF7Kz7sjuMYWTXow&downloadName=1.jpg" width="700px;" alt=""/>
+
     
-    </aside>
-    
-    ![스크린샷 2024-08-14 오전 10.44.04.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/83c75a39-3aba-4ba4-a792-7aefe4b07895/b487a955-087a-4b14-8191-280f19cc395e/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2024-08-14_%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB_10.44.04.png)
-    
-## ⭐ 사용자 맞춤 옷 추천
+### ⭐ 사용자 맞춤 옷 추천
     
     <aside>
     👉 외출하기 전, “오늘 같은 날씨에는 무슨 옷을 입을까”에 대한 고민을 해결하기 위해 오늘의 날씨 데이터, 내 옷장에 등록된 옷, 비슷한 날씨에 내가 입었던 옷차림, 다른 사용자의 옷차림 데이터를 기반으로 나만의 맞춤 옷차림을 추천합니다.
@@ -146,7 +142,7 @@
     
     ![1.gif](https://prod-files-secure.s3.us-west-2.amazonaws.com/83c75a39-3aba-4ba4-a792-7aefe4b07895/9bb16202-ccc2-4694-bb6d-298576b3ef5f/1.gif)
     
-- 위시리시트
+### ⭐ 위시리시트
     
     <aside>
     👉 네이버 쇼핑 API를 기반으로 현재 날씨에 맞는 옷을 사용자에게 추천합니다. 마음에 드는 아이템은 하트를 눌러 위시리스트에 저장할 수 있습니다. 위시리스트는 사용자가 담은 아이템을 편리하게 쇼핑할 수 있도록 옷에 대한 정보와 구매 링크를 제공합니다.
@@ -155,14 +151,14 @@
     
     ![wishlist.gif](https://prod-files-secure.s3.us-west-2.amazonaws.com/83c75a39-3aba-4ba4-a792-7aefe4b07895/486af6cc-6858-4692-9a07-0dc8e7bea8d1/wishlist.gif)
     
-- 비밀번호 찾기
+### ⭐ 비밀번호 찾기
     
     <aside>
     👉 사용자가 비밀번호를 잊어버린 경우, 문자를 통해서 비밀번호를 찾을 수 있습니다.
     
     </aside>
     
-- 게시판 & 댓글
+### ⭐ 게시판 & 댓글
     
     <aside>
     👉 사용자는 OOTD(outfit of the day, 오늘의 옷 차림)를 등록하여 다른 사용자와 공유할 수 있습니다. 게시물에 대한 의견을 자유롭게 댓글로 작성할 수 있습니다.
@@ -173,7 +169,7 @@
     
     ![comments.gif](https://prod-files-secure.s3.us-west-2.amazonaws.com/83c75a39-3aba-4ba4-a792-7aefe4b07895/9f62f420-9819-44d3-aced-df2ea36082a7/comments.gif)
     
-- 검색 기능
+### ⭐ 검색 기능
     
     <aside>
     👉 사용자가 원하는 정보를 쉽게 찾고 검색 경험을 더욱 만족스럽게 느낄 수 있도록
