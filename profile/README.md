@@ -17,7 +17,7 @@
 	      <a href="https://github.com/seunghyeonlee9661" target="_blank">
 	      <img src="" width="200px;" alt=""/>
 	      <br />
-	      <sub><b>이승현(Team Leader)</b></sub>
+	      <sub><b>이승현 BE(Team Leader)</b></sub>
 	      </a>
 	      <br />
        	      </td>
@@ -38,7 +38,7 @@
 	      <a href="https://github.com/summereuna" target="_blank">
 	      <img src="" width="200px;" alt=""/>
 	      <br />
-	      <sub>정은화<b>(Deputy team leader)</b></sub>
+	      <sub>정은화 FE<b>(Deputy team leader)</b></sub>
 	      </a>
 	      <br />
        	      </td>
@@ -55,7 +55,7 @@
 	      <a href="https://github.com/HaJunyoung" target="_blank">
 	      <img src="" alt=""/>
 	      <br />
-	      <sub><b>하준영(Team Member)</b></sub>
+	      <sub><b>하준영 BE(Team Member)</b></sub>
 	      </a>
 	      <br />
        	      </td>
@@ -72,7 +72,7 @@
 	      <a href="https://github.com/HanBeom98" target="_blank">
 	      <img src="" alt=""/>
 	      <br />
-	      <sub><b>조한범(Team Member)</b></sub>
+	      <sub><b>조한범 BE(Team Member)</b></sub>
 	      </a>
 	      <br />
        	      </td>
@@ -89,7 +89,7 @@
 	      <a href="https://github.com/GoGeunWoo" target="_blank">
 	      <img src="" alt=""/>
 	      <br />
-	      <sub><b>고근우(Team Member)</b></sub>
+	      <sub><b>고근우 FE(Team Member)</b></sub>
 	      </a>
 	      <br />
        	      </td>
