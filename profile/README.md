@@ -118,7 +118,7 @@
 ### 💚 스크럼 규칙
 
 ### 💚 기술적 의사결정 (FE | BE)
-
+---
 <details>
   <summary>기술적 의사결정(FE)</summary>
 	<ul>
