@@ -157,6 +157,5 @@
 ![wish](https://github.com/user-attachments/assets/11f219e2-9eca-49f9-aeed-72a82e001104)
 ![trend color](https://github.com/user-attachments/assets/139cbd36-b5b5-484b-b40d-4b8ff52cb373)
 
-
-
 ## 💚 발표 자료
+[WeatherWear (4).pdf](https://github.com/user-attachments/files/16633816/WeatherWear.4.pdf)
