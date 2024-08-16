@@ -112,6 +112,10 @@
 사용자들과 함께 OOTD(outfit of the day, 오늘의 옷차림) 패션 스타일을 공유하고,
 오늘의 날씨에 딱 맞는 나만의 특별한 OOTD로 스타일리시하게 하루를 시작해보세요!
 
+## ⛈️ 웨더웨어(WeatherWear) 사이트
+<a href="https://weatherwearclothing.com/" target="_blank">
+
+
 ## 💚 기술 아키텍처
 <img src="https://file.notion.so/f/f/83c75a39-3aba-4ba4-a792-7aefe4b07895/b5b1d229-6c50-42bf-86cb-b8383c3ab6c0/image.png?table=block&id=ba04be01-f5a2-46f9-ad38-7f3c09b7f4d4&spaceId=83c75a39-3aba-4ba4-a792-7aefe4b07895&expirationTimestamp=1723874400000&signature=Upc2ig3DPDg5VIeCstwjaNZ2MynIhh6n0BZqRX4fJ8o&downloadName=image.png" width="800px;" alt=""/>
 
