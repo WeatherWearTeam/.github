@@ -167,9 +167,49 @@
 </details>
 <details>
   <summary>기술적 의사결정(BE)  </summary>
-	<ul>
-		<li></li>
-	</ul>
+<ul>
+  <li><strong>Redis</strong>
+    <ul>
+      <li>Redis는 캐시 역할을 하는 데이터베이스로 높은 성능과 빠른 읽기/쓰기를 지원합니다. 이를 활용하여 반복적인 데이터 조회를 빠르게 수행하여 성능 최적화에 기여합니다.</li>
+    </ul>
+  </li>
+  <li><strong>Github Actions</strong>
+    <ul>
+      <li>Github Actions는 CI/CD 파이프라인을 자동화하는 도구입니다. 소프트웨어 개발에서 일관성을 유지하고, 코드 변경을 빠르게 검토할 수 있도록 자동 배포 작업을 수행합니다.</li>
+    </ul>
+  </li>
+  <li><strong>Swagger</strong>
+    <ul>
+      <li>Swagger는 API의 문서화 및 설계를 지원하는 도구입니다. API 명세를 UI 형식으로 빠르게 작성하여 개발 과정에서 상호간의 명확한 이해를 돕습니다. 이를 통해 API 설계의 일관성을 보장하고 커뮤니케이션을 개선할 수 있습니다.</li>
+    </ul>
+  </li>
+  <li><strong>JMeter</strong>
+    <ul>
+      <li>JMeter는 성능 테스트 및 부하 테스트를 수행하는 오픈소스 도구입니다. 대규모 사용자에 대한 테스트를 진행하고 트래픽을 시뮬레이션하는데 유용하며, 다양한 결과와 처리량, 응답 시간 등을 분석할 수 있습니다.</li>
+    </ul>
+  </li>
+  <li><strong>Oauth</strong>
+    <ul>
+      <li>로그인 및 회원 가입의 경우, 카카오 계정의 자원을 사용할 수 있도록 Oauth를 활용했습니다. 이를 통해 제3자 애플리케이션에 접근하여 사용자 정보를 받아와 처리할 수 있습니다.</li>
+    </ul>
+  </li>
+  <li><strong>Scrimage</strong>
+    <ul>
+      <li>크기가 크고 용량이 많은 이미지를 사용하는 앱의 특성을 유지하면서, 이미지를 효율적으로 저장하기 위해 WEBP로 이미지 변환을 수행했습니다.</li>
+    </ul>
+  </li>
+  <li><strong>Amazon S3</strong>
+    <ul>
+      <li>트래픽 증가에 따른 장비 증설을 Amazon S3가 대행합니다. 또한, 파일에 대한 접근 권한을 지정하여 서비스를 호스팅 용도로 사용하는 것을 방지합니다.</li>
+    </ul>
+  </li>
+  <li><strong>ELB / Auto Scaling</strong>
+    <ul>
+      <li>CPU, 메모리, 디스크, 네트워크 트래픽 등 시스템 자원을 모니터링하며 서버 사이즈를 자동으로 조절하는 서비스입니다. Cloud Computing의 장점인 ‘필요에 맞는 빠른 서비스 확장 및 축소’ 기능을 활용했습니다.</li>
+    </ul>
+  </li>
+</ul>
+
 </details>
 
 ## 💚 기술 아키텍처
