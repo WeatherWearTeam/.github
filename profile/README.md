@@ -113,8 +113,8 @@
 오늘의 날씨에 딱 맞는 나만의 특별한 OOTD로 스타일리시하게 하루를 시작해보세요!
 
 ## ⛈️ 웨더웨어(WeatherWear) 사이트
-[웨더웨어](https://weatherwearclothing.com/)
-<a href="https://weatherwearclothing.com/" target="_blank">
+<a href="https://weatherwearclothing.com/" target="_blank"> <img src="https://file.notion.so/f/f/83c75a39-3aba-4ba4-a792-7aefe4b07895/f004baeb-f3cb-456a-b7e7-b17736573ab0/wwlogo.jpg?table=block&id=725a4242-7f98-40bc-8758-c8dc7873a92b&spaceId=83c75a39-3aba-4ba4-a792-7aefe4b07895&expirationTimestamp=1723881600000&signature=fzUQ9DqK6YAzz7TLl0GWz_HcRFDQkFQKDNBpOE1Ukl4&downloadName=wwlogo.jpg" width="200px;" alt=""/> </a>
+
 
 
 ## 💚 기술 아키텍처
